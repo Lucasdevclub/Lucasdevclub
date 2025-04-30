@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 Eu sou o Lucas de Oliveira Rocha, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
