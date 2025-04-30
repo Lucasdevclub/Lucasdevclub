@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Lucasdevclub/Lucasdevclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Lucas de Oliveira Rocha, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-Here are some ideas to get you started:
+Iniciei o aprendizado com JavaScript e React.
+<br>
+<br>
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo"/>
+  - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código. :grin:
+<br>
+<br>
+  - :speech_balloon:Pergunte-me sobre qualquer coisa aqui https://www.linkedin.com/in/lucas-de-oliveira-rocha-/  
+  - :mailbox_with_mail:Como entrar em contato comigo: https://www.instagram.com/lucasoliveira_crf/
+
+
+ ### Conecte-se comigo: :computer:
+
+ <p>
+   <a href="https://www.instagram.com/lucasoliveira_crf"/>
+     <img align="left" alt="ícone do Instagram" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/>
+     <a/>
+       <a herf="https://www.linkedin.com/in/lucas-de-oliveira-rocha-"/>
+       <img align="left" alt="ícone do LinkedIn" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/>
+ </p>
+<br>
+<br>
+<br>
+
+[![Lucas stats](https://github-readme-stats.vercel.app/api?username=Lucasdevclub)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdevclub)](https://github.com/anuraghazra/github-readme-stats)
