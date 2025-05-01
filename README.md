@@ -17,17 +17,6 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 <br>
   - :speech_balloon:Pergunte-me sobre qualquer coisa aqui https://www.linkedin.com/in/lucas-de-oliveira-rocha-/  
   - :mailbox_with_mail:Como entrar em contato comigo: https://www.instagram.com/lucasoliveira_crf/
-
-
- ### Conecte-se comigo: :computer:
-
- <p>
-   <a href="https://www.instagram.com/lucasoliveira_crf"/>
-     <img align="left" alt="ícone do Instagram" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/>
-     <a/>
-       <a herf="https://www.linkedin.com/in/lucas-de-oliveira-rocha-"/>
-       <img align="left" alt="ícone do LinkedIn" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/>
- </p>
 <br>
 <br>
 <br>
